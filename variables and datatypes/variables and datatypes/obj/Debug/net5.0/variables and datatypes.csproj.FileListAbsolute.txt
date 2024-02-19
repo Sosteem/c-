@@ -1,0 +1,15 @@
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\bin\Debug\net5.0\variables and datatypes.exe
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\bin\Debug\net5.0\variables and datatypes.deps.json
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\bin\Debug\net5.0\variables and datatypes.runtimeconfig.json
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\bin\Debug\net5.0\variables and datatypes.runtimeconfig.dev.json
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\bin\Debug\net5.0\variables and datatypes.dll
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\bin\Debug\net5.0\variables and datatypes.pdb
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\variables and datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\variables and datatypes.AssemblyInfoInputs.cache
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\variables and datatypes.AssemblyInfo.cs
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\variables and datatypes.csproj.CoreCompileInputs.cache
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\variables and datatypes.dll
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\refint\variables and datatypes.dll
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\variables and datatypes.pdb
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\variables and datatypes.genruntimeconfig.cache
+C:\Users\suace\source\repos\variables and datatypes\variables and datatypes\obj\Debug\net5.0\ref\variables and datatypes.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B5916AAAbZLfBoPWKjRFxecrpMwrOuRGJ5ILGi5egvIwAIRw4/c+dRVowY6LrTrqPXpTw6T2GKiBm/Wrn7vm0A==",
+  "dgSpecHash": "1fWSAciXrSRszslvaVGaCj4Jn+aNeVyHTgBpo7NWpi5zYnfoauMJDeepNz1MC2lEycPfXPE+koVXZ0H/2bQkxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suace\\source\\repos\\helloworld\\helloworld\\helloworld.csproj",
+  "projectFilePath": "C:\\Users\\suace\\c#\\repos\\helloworld\\helloworld\\helloworld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
