@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\primitivedatatype",
+    "\\primitivedatatype\\primitivedatatype",
+    "\\variables",
+    "\\variables\\variables"
   ],
+  "SelectedNode": "\\primitivedatatype\\primitivedatatype\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

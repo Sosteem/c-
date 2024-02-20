@@ -1,0 +1,16 @@
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\bin\Debug\net5.0\primitivedatatype.exe
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\bin\Debug\net5.0\primitivedatatype.deps.json
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\bin\Debug\net5.0\primitivedatatype.runtimeconfig.json
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\bin\Debug\net5.0\primitivedatatype.runtimeconfig.dev.json
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\bin\Debug\net5.0\primitivedatatype.dll
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\bin\Debug\net5.0\primitivedatatype.pdb
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\primitivedatatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\primitivedatatype.AssemblyInfoInputs.cache
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\primitivedatatype.AssemblyInfo.cs
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\primitivedatatype.csproj.CoreCompileInputs.cache
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\primitivedatatype.sourcelink.json
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\primitivedatatype.dll
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\refint\primitivedatatype.dll
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\primitivedatatype.pdb
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\primitivedatatype.genruntimeconfig.cache
+C:\Users\suace\c#\repos\primitivedatatype\primitivedatatype\obj\Debug\net5.0\ref\primitivedatatype.dll

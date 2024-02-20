@@ -1,0 +1,18 @@
+Integral
+sbyte x = 1; range from -128 - 127
+short x = 1; range from -32,768 - 32,767
+integer x = 1; range from -2,147,483,648 - 2,147,483,647
+long x = 1; range from –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+Choose the smallest type your value fits into.
+Floating point
+float x = 0.5f; range from 1.5 × 10^−45 - 3.4 × 10^38, 7-digit precision
+double x = 0.5; range from 5.0 × 10^−324 - 1.7 × 10^308, 15-digit precision
+decimal x = 0.5m; range from –7.9 × 10^−28 - 7.9 × 10^28, 28-digit precision
+Use float for 3D graphics, double for everything (except money calculations) and decimal for
+financial applications.
+Boolean
+bool switch = true;
+Use a boolean if you want to set something to true or false (just like a toggle).
+Unicode characters and strings
+char c = ‘A’;
+string name = “John Doe”;
