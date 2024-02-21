@@ -1,0 +1,15 @@
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\string.exe
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\string.deps.json
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\string.runtimeconfig.json
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\string.dll
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\string.pdb
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\string.AssemblyInfoInputs.cache
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\string.AssemblyInfo.cs
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\string.csproj.CoreCompileInputs.cache
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\string.sourcelink.json
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\string.dll
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\refint\string.dll
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\string.pdb
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\string.genruntimeconfig.cache
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\ref\string.dll

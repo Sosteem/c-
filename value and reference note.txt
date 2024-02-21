@@ -1,0 +1,21 @@
+https://www.tutorialsteacher.com/csharp/csharp-value-type-and-reference-type
+
+notes for value and reference type
+Data types are categorized into two types according to how they occupy memory locations.
+1. value types
+2. Data types
+
+1. Value Types:
+# value type is a data type which whne declared and assigned value holds the value directly on its own memory space.
+# The value uses heaps to store the data.
+# examples are int , float ,long , double , decimal double etc
+
+2.Reference type
+# Reference type is the variable type which instead of storing the value in memory directly, stores the memory location of the actual data
+# The variable here store the memory reference of the data and not the data directly.
+# examples are: String, class, Array;
+
+In order to save resources and it makes it alot faster because i doesn't have to move the actual data but the address of the data
+yesma chai variable ko address ra variable value chai different location ma store huncha ani variable ddress ko ni address huncha.
+
+suppose hami chai car rent garna gako chham ani car rent garne counter ma car rakheko hundaina and they give us location tofench it as counter is small to store cars.

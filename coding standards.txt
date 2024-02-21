@@ -1,0 +1,13 @@
+Coding Standards 
+1. reasonable variable name
+	variable name should be reasonable as the data for example age of the person should have name as age.
+	the name of the functions should be according to the functions.
+2. Comments
+	comments are very essential as if we come back after many years it will be harder for us to understand our code.
+	it is also included in team as it will not be able to understood by the teammembers so comments are important.
+3. Proper method name.
+ 
+Commenting styles:
+Single line comments: uses //
+multiline comments /* ....*/
+XML DOCUMENTATION comment - used for the documentation of function or a class

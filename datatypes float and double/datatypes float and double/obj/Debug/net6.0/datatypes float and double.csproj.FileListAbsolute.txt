@@ -1,0 +1,15 @@
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\datatypes float and double.exe
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\datatypes float and double.deps.json
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\datatypes float and double.runtimeconfig.json
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\datatypes float and double.dll
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\bin\Debug\net6.0\datatypes float and double.pdb
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\datatypes float and double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\datatypes float and double.AssemblyInfoInputs.cache
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\datatypes float and double.AssemblyInfo.cs
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\datatypes float and double.csproj.CoreCompileInputs.cache
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\datatypes float and double.sourcelink.json
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\datatypes float and double.dll
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\refint\datatypes float and double.dll
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\datatypes float and double.pdb
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\datatypes float and double.genruntimeconfig.cache
+C:\Users\suace\c#\repos\datatypes float and double\datatypes float and double\obj\Debug\net6.0\ref\datatypes float and double.dll

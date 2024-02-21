@@ -9,7 +9,7 @@ namespace primitivedatatype
             //declaring a variale
             int a;
             //declaring a multiple varaible at once
-            int c, d, e;
+            // int c, d, e;
             //assigning a variable
             a = 15;
             int b = 25;
@@ -21,7 +21,7 @@ namespace primitivedatatype
 
             int sum = a + b;
             //printing a variable
-            Console.WriteLine("num1: " +a+ " num2: "+b+ " is " +sum);//+ is used to app text
+            Console.WriteLine("num1: " + a + " num2: " + b + " is " + sum);//+ is used to app text
 
             //double
             double ddiv = d1 / d2;
@@ -31,9 +31,9 @@ namespace primitivedatatype
             float fdiv = 10.10f;
             float fdivd2 = 12.1213f;
             float fdivi = fdiv / fdivd2;
-            Console.WriteLine("fdiv/fdivd2 is " +fdivi);
+            Console.WriteLine("fdiv/fdivd2 is " + fdivi);
             Console.Read();
 
-
-
         }
+    }
+}
