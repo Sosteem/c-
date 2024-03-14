@@ -1,0 +1,15 @@
+C:\Users\suace\c#\repos\consoledef\consoledef\bin\Debug\net6.0\consoledef.exe
+C:\Users\suace\c#\repos\consoledef\consoledef\bin\Debug\net6.0\consoledef.deps.json
+C:\Users\suace\c#\repos\consoledef\consoledef\bin\Debug\net6.0\consoledef.runtimeconfig.json
+C:\Users\suace\c#\repos\consoledef\consoledef\bin\Debug\net6.0\consoledef.dll
+C:\Users\suace\c#\repos\consoledef\consoledef\bin\Debug\net6.0\consoledef.pdb
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\consoledef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\consoledef.AssemblyInfoInputs.cache
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\consoledef.AssemblyInfo.cs
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\consoledef.csproj.CoreCompileInputs.cache
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\consoledef.sourcelink.json
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\consoledef.dll
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\refint\consoledef.dll
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\consoledef.pdb
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\consoledef.genruntimeconfig.cache
+C:\Users\suace\c#\repos\consoledef\consoledef\obj\Debug\net6.0\ref\consoledef.dll

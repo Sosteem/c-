@@ -1,0 +1,15 @@
+C:\Users\suace\c#\repos\consoles\consoles\bin\Debug\net6.0\consoles.exe
+C:\Users\suace\c#\repos\consoles\consoles\bin\Debug\net6.0\consoles.deps.json
+C:\Users\suace\c#\repos\consoles\consoles\bin\Debug\net6.0\consoles.runtimeconfig.json
+C:\Users\suace\c#\repos\consoles\consoles\bin\Debug\net6.0\consoles.dll
+C:\Users\suace\c#\repos\consoles\consoles\bin\Debug\net6.0\consoles.pdb
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\consoles.AssemblyInfoInputs.cache
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\consoles.AssemblyInfo.cs
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\consoles.csproj.CoreCompileInputs.cache
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\consoles.sourcelink.json
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\consoles.dll
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\refint\consoles.dll
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\consoles.pdb
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\consoles.genruntimeconfig.cache
+C:\Users\suace\c#\repos\consoles\consoles\obj\Debug\net6.0\ref\consoles.dll
